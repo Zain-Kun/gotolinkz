@@ -1,0 +1,2 @@
+# gotolinkz
+Safelink converter gotolinkz
